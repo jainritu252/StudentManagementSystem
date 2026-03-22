@@ -1,0 +1,20 @@
+{
+	"data":[
+		
+		{
+			"emailAddress": "rahulsharma@gmail.com",
+			"password": "Oracle@1999"
+		
+		},
+		
+		{
+		"emailAddress": "ritu.jain321@gmail.com",
+	    "password": "password"
+		},
+		
+		{
+		"emailAddress": "ritu.jain421@gmail.com",
+			    "password": "Oracle@123"
+		}
+	]
+}

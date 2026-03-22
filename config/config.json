@@ -1,0 +1,16 @@
+{
+  "environments": {
+    "DEV": {
+      "url": "http://localhost:3000",
+	  "MAX_NUMBERS_OF_ATTEMPTS":2
+    },
+    "QA": {
+      "url": "http://localhost:3000",
+	  "MAX_NUMBERS_OF_ATTEMPTS":2
+    },
+    "UAT": {
+      "url": "http://localhost:3000",
+	  "MAX_NUMBERS_OF_ATTEMPTS":2
+    }
+  }
+}
